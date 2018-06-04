@@ -19,5 +19,8 @@
   "homepage": "https://github.com/lshmn/lshmn#readme",
   "devDependencies": {
     "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "jshint": "^2.9.5"
   }
 }
